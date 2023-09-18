@@ -1,11 +1,10 @@
-#![Mardown](https://images.pexels.com/photos/18254255/pexels-photo-18254255/free-photo-of-nourriture-assiette-bureau-ordinateur-portable.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+#![banniere bureau](https://images.pexels.com/photos/18254255/pexels-photo-18254255/free-photo-of-nourriture-assiette-bureau-ordinateur-portable.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-#celineamma
-
+#celine amma
 *Développement Web et Accessibilité* 
 
-[Accuel]() -  [Projets]() - [Cv]() - [Contact]()
+[Accueil](README.md) -  [Projets](projets.md) - [Cv]() - [Contact]()
 
 ##Presentation
 Récapitulez brièvement l'idée qui sous­tend votre projet. Pourquoi votre projet est­il important, quels
@@ -16,5 +15,7 @@ l'utilité de votre proposition.
 Décrivez la situation telle qu'elle est maintenant et en quoi votre projet permettra de l'améliorer.
 Mettez en lumière le potentiel de votre proposition en présentant les résultats auxquels sa mise
 en œuvre permettra d'aboutir. Impressionnez vos collègues par la fulgurance de vos idées !
+
+---
 
 2023 - celineamma -  [Me contacter]()
