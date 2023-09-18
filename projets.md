@@ -4,13 +4,13 @@
 
 
 
-[Accuel](README.md) -  [Projets](projets.md) - [Cv]() - [Contact]()
+[Accuel](README.md) -  [Projets](projets.md) - [Cv](CV.md) - [Contact]()
 
 |Client|Dates|Technologie|liens|
 |:-----------|:-----------:|-----:|:-----|
 |Microsoft|2023 |HTML,SASS,JavaScript| [Microsoft](https://account.microsoft.com/account?lang=fr-be) 
 |Google|2023|Node.js |[Google](https://www.google.fr/)|
-|celine|2023|HTML, CSS |[oclock]()|
+|celine|2023|HTML, CSS |[oclock](https://oclock.io/)|
 
 ---
 
