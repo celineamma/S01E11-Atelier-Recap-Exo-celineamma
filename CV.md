@@ -4,7 +4,7 @@
 #celine amma
 
 
-[Accueil](README.md) -  [Projets](projets.md) - [Cv](CV.md) - [Contact]()
+[Accueil](README.md) -  [Projets](projets.md) - [Cv](CV.md) - [Contact](contact.md)
 
 ##CV
 
@@ -13,7 +13,7 @@
 8 impasse du web
 44115 Basse goulaine
 
-cel.ammachi@gmail.com
+cel.amma@gmail.com
 
 ####Expériences
 
@@ -30,8 +30,12 @@ cel.ammachi@gmail.com
 * 2014 - lorem Ipsum
 
 ---
-#### Autres
+#### Autre
 
 * 2016 - permis B
 * 2015 - VELO
 * 2014 - NATATION
+
+---
+
+© 2023 - celine amma -  [Me contacter]()
