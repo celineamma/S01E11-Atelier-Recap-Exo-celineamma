@@ -4,7 +4,7 @@
 #celine amma
 *Développement Web et Accessibilité* 
 
-[Accueil](README.md) -  [Projets](projets.md) - [Cv](CV.md) - [Contact]()
+[Accueil](README.md) -  [Projets](projets.md) - [Cv](CV.md) - [Contact](contact.md)
 
 ##Presentation
 
@@ -18,5 +18,4 @@ Mettez en lumière le potentiel de votre proposition en présentant les résulta
 en œuvre permettra d'aboutir. Impressionnez vos collègues par la fulgurance de vos idées !
 
 ---
-
-2023 - celineamma -  [Me contacter]()
+© 2023 - celine amma -  [Me contacter]()
